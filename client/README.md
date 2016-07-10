@@ -1,4 +1,4 @@
-# RedAlert Radio Reciever code
+# PriorityAlert Radio Reciever code
 
 The concept is that this code runs on a laptop connected to a scanner via 3.5mm phono cable to the MIC input of your sound card. 
 

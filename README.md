@@ -1,6 +1,6 @@
-RedAlert
+PriorityAlert
 ========
-# RedAlert 
+# PriorityAlert 
 A system for integrating two-tone radio audio into SMS/Telephone messages
 
 ## Components
